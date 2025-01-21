@@ -77,7 +77,7 @@ footer #imaginary {
 }
 
 #promptcontainer {
-	text-align: center;
+	text-align: left;
 	position: relative;
 	overflow: auto;
 	overflow-x: hidden;

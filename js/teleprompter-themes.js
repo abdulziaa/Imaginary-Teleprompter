@@ -72,7 +72,7 @@ function styleInit(prompterStyleElement) {
             type: 0,
             className: "darkBody",
             bgOverlay: "darkOverlay",
-            cssText: ".darkBody {background: #272822;color:#FFF;}.darkOverlay {background: #000;}"
+            cssText: ".darkBody {background: #000000;color:#FFF;}.darkOverlay {background: #000;}"
         }, {
         id:2,
             name: "Classic Yellow",
